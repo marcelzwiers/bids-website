@@ -1,6 +1,3 @@
----
----
-
 # Governance and Decision Making
 
 Table of Contents

@@ -1,6 +1,3 @@
----
----
-
 # Get involved in making BIDS better
 
 The easiest way to contribute to BIDS is to ask questions you have about the specification on

@@ -1,6 +1,3 @@
----
----
-
 # Get started
 
 Read the [BIDS Starter Kit](https://bids-standard.github.io/bids-starter-kit/).

@@ -1,6 +1,3 @@
----
----
-
 # Benefits
 
 By using this standard you will benefit in the following ways:

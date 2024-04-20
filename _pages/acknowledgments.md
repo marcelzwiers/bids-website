@@ -1,6 +1,3 @@
----
----
-
 # Acknowledgments
 
 This work has been done by the community of [individual contributors](https://bids-specification.readthedocs.io/en/stable/appendices/contributors.html). Their work was
@@ -23,4 +20,4 @@ Novo Nordisk Foundation NNF20OC0063277 |
 [NIBIB 1R01EB020740](https://reporter.nih.gov/project-details/9053094) | Nipype
 [The Neuro-Irv and Helga Cooper Foundation](https://www.mcgill.ca/neuro/open-science/open-science-awards-and-prizes/neuro-irv-and-helga-cooper-foundation-open-science-prizes) | 2023 International Open Science Prize
 
-![INCF-badge](../../assets/img/incf-badge_281x210.png){: .center-image }
+![INCF-badge](../../assets/img/incf-badge_281x210.png)
