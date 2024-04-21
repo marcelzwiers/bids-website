@@ -31,8 +31,7 @@
       language:
         - Python
       comment:
-        Python functions to convert E-Prime files to csvs. Not currently being
-        developed.
+        Python functions to convert E-Prime files to CSVs. Not currently being developed.
       license: MIT
 
     - name: DCM2NIIx
@@ -63,20 +62,11 @@
       data_types:
         - computational model
       expected_input:
-        - |
-          network and coordinate files expected_input:
-          <ul>
-            <li>CSV/TSV/DAT/Numpy</li>
-            <li>arrays/HDF5,</li>
-            <li>zip folders,</li>
-            <li>and code files in MATLAB/Python/R</li>
-          </ul>
+        - CSV/TSV/DAT/Numpy
+        - arrays/HDF5
+        - zip folders
+        - code files in MATLAB/Python/R
       language:
         - Python
-      comment: |
-        GUI to easily convert simulation results to BIDS format,
-        according to
-        <a href="https://bids.neuroimaging.io/bep034" target="_blank">
-          BEP 34
-        </a>.
+      comment: GUI to easily convert simulation results to BIDS format, according to <a href="https://bids.neuroimaging.io/bep034" target="_blank"> BEP 34 </a>.
       license: MIT

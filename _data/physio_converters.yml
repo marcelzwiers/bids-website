@@ -28,10 +28,7 @@
         - behavioral
         - PET
     expected_input:
-        - DICOM
-        - PAR/REC
-        - physiological
-        - PET
+        - ""
     language:
         - Python
     distribution:
@@ -64,7 +61,9 @@
     data_types:
       - physiological
     expected_input:
-      -  CMRR, AcqKnowledge, Siemens PMU
+      -  CMRR
+      - AcqKnowledge
+      - Siemens PMU
     distribution:
         - name: pypi
           url: https://pypi.org/project/bidsphysio/
@@ -73,5 +72,5 @@
     language:
      -  Python
     documentation:
-    comment: Converts physio data (CMRR, AcqKnowledge, Siemens PMU) to BIDS physiological recording
+    comment: Converts physio data to BIDS physiological recording
     GUI: false
