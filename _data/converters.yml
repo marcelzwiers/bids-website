@@ -125,7 +125,9 @@
       data_types:
         - MRI # not sure
       expected_input:
+        - openfMRI datasets
       language:
+        - "???"
       comment: Convert OpenfMRI dataset to BIDS
 
     - name: ReproIn
@@ -133,6 +135,7 @@
       data_types:
         - MRI
       expected_input:
+        - DICOM      
       language:
         - Python
       comment:
@@ -148,6 +151,7 @@
       data_types:
         - MRI # not sure
       expected_input:
+        - DICOM      
       language:
         - shell
       comment: |
@@ -158,6 +162,7 @@
       url: https://github.com/mslw/horos-bids-output
       data_types:
       expected_input:
+        - "???"
       language:
         - objective C
       comment: Horos plugin for BIDS output.
@@ -255,6 +260,8 @@
         - MRI
       expected_input:
         - DICOM
+      language:
+        - "???"        
       comment: |
         Automated Dicom to BIDS and pipelines using compute canada. From the
         Center for Functional and Metabolic Mapping (CFMM) at Western’s Robarts

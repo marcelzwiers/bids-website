@@ -9,15 +9,7 @@ By using this standard you will benefit in the following ways:
 
 ## Converters
 
-{% include converters_table.html members=site.data.converters %}
-
-{% include converters_table.html members=site.data.MEEG_converters %}
-
-{% include converters_table.html members=site.data.from_BIDS_converters %}
-
-{% include converters_table.html members=site.data.physio_converters %}
-
-{% include converters_table.html members=site.data.other_converters %}
+{{ MACROS___generate_converter_table() }}
 
 # Software currently supporting BIDS:
 
@@ -26,5 +18,3 @@ By using this standard you will benefit in the following ways:
 A description of how to build containerized apps supporting BIDS inputs can be found in the [paper published in PLOS Computational Biology](http://doi.org/10.1371/journal.pcbi.1005209).
 
 ## Other Tools
-
-{% include list_tools.html tools=site.data.tools %}
