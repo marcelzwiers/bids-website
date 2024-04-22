@@ -45,7 +45,6 @@ plugins:
 
 include:
   - _pages
-  - _posts
 
 exclude:
   - README.md
