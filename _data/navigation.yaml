@@ -2,16 +2,16 @@ menu:
   - title: ABOUT
     url: /index.html
   - title: NEWS
-    url: /news.html
+    url: https://bids-website.readthedocs.io/en/latest/blog/
   - title: BENEFITS
-    url: /benefits.html
+    url: https://bids-website.readthedocs.io/en/latest/tools/
   - title: SPECIFICATION
-    url: /specification.html
+    url: https://bids-website.readthedocs.io/en/latest/standards/
   - title: GET STARTED
-    url: /get_started.html
+    url: https://bids-website.readthedocs.io/en/latest/starter_kit/src/
   - title: GET INVOLVED
-    url: /get_involved.html
+    url: https://bids-website.readthedocs.io/en/latest/bep/
   - title: GOVERNANCE
-    url: /governance.html
+    url: https://bids-website.readthedocs.io/en/latest/collaboration/governance/
   - title: ACKNOWLEDGMENTS
-    url: /acknowledgments.html
+    url: https://bids-website.readthedocs.io/en/latest/collaboration/acknowledgments/
