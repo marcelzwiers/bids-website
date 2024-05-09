@@ -1,1 +1,4 @@
-moved to docs/standards/index.md
+---
+redirect_to:
+  - https://bids-website.readthedocs.io/en/latest/standards/
+---

@@ -1,1 +1,4 @@
-moved to docs/collaboration/governance.md
+---
+redirect_to:
+  - https://bids-website.readthedocs.io/en/latest/collaboration/governance/
+---

@@ -1,1 +1,4 @@
-moved to docs/bep/index.md
+---
+redirect_to:
+  - https://bids-website.readthedocs.io/en/latest/bep/
+---
