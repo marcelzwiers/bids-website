@@ -1,4 +1,4 @@
 ---
 redirect_to:
-  - https://bids-website.readthedocs.io/en/latest/blog/
+  - https://bids-website.readthedocs.io/en/latest/tools/
 ---

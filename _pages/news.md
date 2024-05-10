@@ -1,4 +1,4 @@
 ---
 redirect_to:
-  - https://bids-website.readthedocs.io/en/latest/collaboration/governance/
+  - https://bids-website.readthedocs.io/en/latest/blog/
 ---
