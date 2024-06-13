@@ -1,4 +1,3 @@
-beautifulsoup4
 gender_guesser
 pandas
 plotly>=5.3.1

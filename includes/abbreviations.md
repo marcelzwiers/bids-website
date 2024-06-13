@@ -1,6 +1,3 @@
-<!-- *[EEG]:  -->
-<!-- *[MEG]:  -->
-
 *[ASL]: Arterial Spin Labelling
 *[BEP]: BIDS Extension Proposal
 *[BEPs]: BIDS Extension Proposals
